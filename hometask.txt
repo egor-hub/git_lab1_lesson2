@@ -1,0 +1,12 @@
+Ветка master отличается от ветки demo тем, что слияние в нее происходит из веток boots_buttons и hat, а не из веток boots, buttons и hat, как в ветке demo
+В ветке master 10 коммитов:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge remote-tracking branch 'source/hat'
+Merge branch 'boots_buttons'
